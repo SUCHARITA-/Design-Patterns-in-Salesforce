@@ -15,7 +15,7 @@ Right now, I'm thinking of creating one LWC, which has button to create task and
 
 But first, let's see the below diagram first.
 
-![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/sucharitamondal/GIT_Repo/Design-Patterns-in-Salesforce/FactoryMethodPattern.png?version%3D1721825337429)
+![alt text](FactoryMethodPattern.png)
 
 Now you might got an idea, how we are going to implement the **Factory Method Pattern**. Let's try to understand the significance of each of the blue boxes.
 
