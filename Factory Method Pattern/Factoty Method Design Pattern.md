@@ -28,4 +28,6 @@ Now you might got an idea, how we are going to implement the **Factory Method Pa
 **CreateTaskController** : Well this the main class from which will pass type of object, we are interested in.
 
 
-**Note** : Please check the code snippets for implementation.
+**Note** : Please check the code snippets for implementation and configs on Lightning record page is below.
+
+![alt text](OpptyRecordPageConfigs.png)
