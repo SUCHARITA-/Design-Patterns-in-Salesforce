@@ -5,3 +5,4 @@ Design patterns are essential in modern backend development as they provide a st
 Here we are going to see how design patterns can be used in Apex. Below are the list of design patterns that we are going use
 
 1. Factory Method Design Pattern
+2. Unit of Work (UOW) Design Pattern
