@@ -8,6 +8,8 @@ The idea behind the Unit of Work pattern is to centralize and coordinate databas
 
 Think of a scenario where you've multiple DMLs to perform, but you can use UOW to commit them into a single transaction.
 
-For more details you can check github link (https://github.com/apex-enterprise-patterns/fflib-apex-common) and Martin Fowler's book (https://martinfowler.com/books/eaa.html)
+#### Reference
+1. https://github.com/apex-enterprise-patterns/fflib-apex-common 
+2. Martin Fowler's book (https://martinfowler.com/books/eaa.html)
 
 **Note** : Please check the code snippets for implementation 

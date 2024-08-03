@@ -19,3 +19,5 @@ Here we are going to see how design patterns can be used in Apex. Below are the 
 1. Factory Method Design Pattern
 2. Unit of Work (UOW) Design Pattern
 3. Template Method Design Pattern
+4. Builder Design Pattern
+5. Singleton Desing Pattern
